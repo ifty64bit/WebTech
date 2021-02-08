@@ -2,6 +2,8 @@
 <html>
 <head>
     <title>My Home Page</title>
-    My Home Page
+    <?php
+    echo "This is home Page"
+    ?>
 </head>
 </html>
